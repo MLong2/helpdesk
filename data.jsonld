@@ -23,11 +23,11 @@
     { "note1":
       { "@type": "notebook:note",
         "@id": "note/note1",
-        "title": "Senator gets coffee",
+        "title": "Senator Gets Coffee",
         "note_content": "Today, Senator Shaw left the office to get coffee.  He went to Starbucks.",
         "author":
       {   "profile_url": "http://linkedin.com/MettaL",
-          "name": "Metta",
+          "name": "Metta Longo",
           "@type": "foaf:person"
         },
         "date": "2015-11-3"
@@ -35,26 +35,98 @@
       "note2":
       { "@type": "notebook:note",
         "@id": "note/note2",
-        "title": "Senator drinks coffee",
+        "title": "Senator Drinks Coffee",
         "note_content": "After returning to the office from Starbucks, Senator Shaw enjoyed his Pumpkin Spice Latte.",
-        "date": "2015-11-3",
         "author":
         { "profile_url": "http://linkedin.com/TinaXu",
           "name": "Tina Xu",
           "@type": "foaf:person"
-        }
+        },
+        "date": "2015-11-3"
       },
       "note3":
       { "@type": "notebook:note",
         "@id": "note/note3",
-        "title": "Senator spills coffee",
+        "title": "Senator Spills Coffee",
         "note_content": "Senator Shaw sat behind his desk in a swivel chair and leaned back to drink his coffee.  Unfortunately, Senator Shaw leaned back a little too far with a little too much force and spilled his coffee all down his front.",
         "author":
-        { "profile_url": "http://linkedin.com/Chongrui Zhang",
+        { "profile_url": "http://linkedin.com/ChongruiZhang",
           "name": "Chongrui Zhang",
           "@type": "foaf:person"
         },
         "date": "2015-11-3"
+      },
+      "note4":
+      { "@type": "notebook:note",
+        "@id": "note/note4",
+        "title": "Senator Advises Student Diction",
+        "note_content": "In a tweet the other day, Senator Shaw discouraged students pursuing higher education from using modern diction in their papers.  He reasons that the impermanence of these terms will negatively affect the reputation and message of the author in the future.",
+        "author":
+        { "profile_url": "http://linkedin.com/TinaXu",
+          "name": "Tina Xu",
+          "@type": "foaf:person"
+        },
+        "date": "2015-11-5"
+      },
+      "note5":
+      { "@type": "notebook:note",
+        "@id": "note/note5",
+        "title": "Senator Shaw Uses Social Media to Raise a Voice about Political Issues",
+        "note_content": "Senator Shaw, with refreshing candor, takes to social media to share his opinions on society, current events, and politics.  It is uncommon for employees to speak outside of their institutions beliefs, yet Senator Shaw frequently voices his personal views.  It is a nice change for professionals to be able to share their opinions honestly; professionals are people and therefore are as entitled to opinions just as any other.",
+        "author":
+        { "profile_url": "http://linkedin.com/MettaL",
+          "name": "Metta Longo",
+          "@type": "foaf:person"
+        },
+        "date": "2015-11-18"
+      },
+      "note6":
+      {"@type": "notebook:note",
+        "@id": "note/note6",
+        "title": "Senator Shaw Gives Lecture on JSON-LD",
+        "note_content": "This past Thursday, Senator Shaw gave a lecture to students at the University of North Carolina at Chapel Hill about microdata.  Sources say the lecture was 'the best yet' and 'much better than the HTML presentation'.",
+        "author":
+        { "profile_url": "http://linkedin.com/TinaXu",
+          "name": "Tina Xu",
+          "@type": "foaf:person"
+        },
+        "date": "2015-11-21"
+      },
+      "note7":
+      {"@type": "notebook:note",
+        "@id": "note/note7",
+        "title": "A Day of Thanks",
+        "note_content": "Senator Shaw spent time at home for Thanksgiving break.  It was discovered that he does not like sweet potatoes.",
+        "author":
+        { "profile_url": "http://linkedin.com/ChongruiZhang",
+          "name": "Chongrui Zhang",
+          "@type": "foaf:person"
+        },
+        "date": "2015-11-27"
+      },
+      "note8":
+      {"@type": "notebook:note",
+        "@id": "note/note8",
+        "@title": "Senator Under Lockdown",
+        "note_content": "Wednesday morning, the University of North Carolina at Chapel Hill received a report about an armed man on campus.  The Department of Public Safety sent a message to all students and staff to remain indoors until further notice.  We are awaiting a comment from Senator Shaw.",
+        "author":
+        { "profile_url": "http://linkedin.com/ChongruiZhang",
+          "name": "Chongrui Zhang",
+          "@type": "foaf:person"
+        },
+        "date": "2015-12-2"
+      },
+      "note9":
+      {"@type": "notebook:note",
+        "@id": "note/note9",
+        "title": "Senator Shaw Regrets Exam Time",
+        "note_content": "In preparing to wake up early tomorrow, especially after a week of sleeping in, Senator Shaw wonders why he did not push the exam start time back to 9am.",
+        "author":
+        { "profile_url": "http://linkedin.com/MettaL",
+          "name": "Metta Longo",
+          "@type": "foaf:person"
+        },
+        "date": "2015-12-7"
       }
     }
 }
