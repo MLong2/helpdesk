@@ -71,8 +71,8 @@
       "note5":
       { "@type": "notebook:note",
         "@id": "note/note5",
-        "title": "Senator Shaw Uses Social Media to Raise a Voice about Political Issues",
-        "note_content": "Senator Shaw, with refreshing candor, takes to social media to share his opinions on society, current events, and politics.  It is uncommon for employees to speak outside of their institutions beliefs, yet Senator Shaw frequently voices his personal views.  It is a nice change for professionals to be able to share their opinions honestly; professionals are people and therefore are as entitled to opinions just as any other.",
+        "title": "Senator Shaw Remains Active on Social Media",
+        "note_content": "Senator Shaw, with refreshing candor, takes to social media to share his opinions on society, current events, and politics.  Though a senator, it is uncommon for employees to speak outside of their institution's beliefs.  Shaw frequently voices his personal views, not just those of his party or employer.  It is a nice change for professionals to be able to share their opinions honestly; professionals are people and therefore are as entitled to opinions just as any other.",
         "author":
         { "profile_url": "http://linkedin.com/MettaL",
           "name": "Metta Longo",
