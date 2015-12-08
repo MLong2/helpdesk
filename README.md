@@ -58,7 +58,10 @@ the types and properties used to describe your data.
 >     Each individual note is defined with “title”, “note_content”, and “author”.  Underneath “author”, the code defines “profile_URL” and “name”, which give a LinkedIn profile and the name of the author, and @type as “foaf:person”.  In this format, the note title, content, and author can be added by the user in json language.  
 
 
->     From the website, each note can be sorted based on title, author, and date.  This allows for the user to find specific notes without going through the entire list.  A new note can be created via the button on the notebook’s front page.  This will take the user to the note page where they can add author and note content.  The content of each note always appears as a text box through which the user can read or edit the content.  This is to allow for easier editing, but can be risky since anyone who opens a note after it is created can edit its entire contents.  Thus, it is best for a website such as this to be protected with a login and password--both to protect the edit function and to protect the authorship rights of those writing the notes.
+>     From the website, each note can be sorted based on title, author, and date.  This allows for the user to find specific notes without going through the entire list.  A new note can be created via the button on the notebook’s front page.  This will take the user to the note page where they can add author and note content.  The content of each note always appears as a text box through which the user can read or edit the content.  This is to allow for easier editing, but can be risky since anyone who opens a note after it is created can edit its entire contents.  Thus, it is best for a website such as this to be protected with a login and password--both to protect the edit function and to protect the authorship rights of those writing the notes.  
+
+
+>     We also created our website to link to a twitter account, though it could connect to any social media source.  The tweets are represented through a twitter API service and display the feed of Ryan Shaw, after whom we have based our senator.
 
 
 The `JSON-LD @context` is defined with the following:
